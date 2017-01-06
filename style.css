@@ -6,8 +6,17 @@
  width: 100%;
  padding: 10px
 }
+
+.back {
+	
+	font-size: 50px;
+	display: inline-block;
+	border: 2px solid #332b3c;
+	
+	
+}
 body {
- margin: 0 
+	margin: 0px;
 }
 
 #headertext {
@@ -71,8 +80,9 @@ a:link, a:visited {
 	
 .info p {
   color: #332b3c;
-  width: 40%;
+  width: 60%;
   margin: auto;
+  margin-top: 10px;
   margin-bottom: 100px;
   font-family: 'Open-Sans', sans-serif;
   font-size: 23px;
@@ -87,7 +97,7 @@ a:link, a:visited {
   font-size: 60px;
   font-weight: 600;
   line-height: 60px;
-  margin: 30px;
+  margin: 20px;
  
 	
 }
@@ -96,7 +106,7 @@ a:link, a:visited {
 	border-style: solid;
 	border-width: 4px;
 	width: 40%;
-	padding: 30px 5px;
+	padding: 1px;
     margin: auto;
 	margin-top: 10px
 	
